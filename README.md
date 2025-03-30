@@ -88,9 +88,3 @@ python src/llm_response.py
 🔹 Support multi-PDF search
 
 🔹 Optimize LLM prompt engineering
-
-
-# Contributors 🏆
-
-👤 Harsh Kumar – AI/ML Engineer
-📧 Email: harshathghara19@gmail.com
